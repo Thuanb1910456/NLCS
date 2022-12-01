@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "63886dd78632617f89dd4e93"
+  },
+  "id_user": {
+    "$oid": "63842d32b668b5404ecfaec5"
+  },
+  "products": [
+    {
+      "id_product": {
+        "$oid": "636f9a2c5cb9046c349aa719"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "63886d788632617f89dd4e5f"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "636f9a2c5cb9046c349aa718"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "63886d748632617f89dd4e3a"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "636f9a2c5cb9046c349aa717"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "63886d6d8632617f89dd4e04"
+      }
+    }
+  ],
+  "status": true,
+  "content": false,
+  "total": 350000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669885399045"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669885933957"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638870028632617f89dd5d46"
+  },
+  "id_user": {
+    "$oid": "638427e0b668b5404ecfa821"
+  },
+  "products": [
+    {
+      "id_product": {
+        "$oid": "636f9a2c5cb9046c349aa717"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "63886ffd8632617f89dd5d21"
+      }
+    }
+  ],
+  "status": false,
+  "content": true,
+  "total": 150000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669885954876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669885973605"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6388700a8632617f89dd5d6f"
+  },
+  "id_user": {
+    "$oid": "638427e0b668b5404ecfa821"
+  },
+  "products": [
+    {
+      "id_product": {
+        "$oid": "636f9a2c5cb9046c349aa718"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "638870088632617f89dd5d5c"
+      }
+    }
+  ],
+  "status": false,
+  "content": false,
+  "total": 100000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669885962884"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669885962884"
+    }
+  },
+  "__v": 0
+}]

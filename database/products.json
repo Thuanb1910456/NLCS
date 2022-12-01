@@ -1,0 +1,449 @@
+[{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa717"
+  },
+  "name": "Betta Dumbo Dứa",
+  "price": "150000",
+  "image": "betta-dumbo-3.jpg",
+  "describle": "Cá betta dumbo dứa có đặc điểm là thân hình nhỏ gọn. Vây đuôi dài và màu sắc chủ đạo là màu dứa...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa718"
+  },
+  "name": "Betta Halfmoon Yellow",
+  "price": "100000",
+  "image": "betta-5.jpg",
+  "describle": "Cá betta halfmoon yellow có đặc điểm là đuôi xòe được đến 180 độ hoặc hơn. Vây đuôi dài và màu sắc chủ đạo là màu vàng...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa719"
+  },
+  "name": "Betta Halfmoon Red",
+  "price": "100000",
+  "image": "betta-4.jpg",
+  "describle": "Cá betta halfmoon red có đặc điểm là đuôi xòe được đến 180 độ hoặc hơn. Vây đuôi dài và màu sắc chủ đạo là màu đỏ...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa71a"
+  },
+  "name": "Betta Dragon White",
+  "price": "110000",
+  "image": "betta-dragon-1.jpg",
+  "describle": "Cá betta dragon white có đặc điểm là phần thân màu trắng, vây dày và đều nhau. Vây đuôi có màu trong suốt khác với cơ thể...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa71b"
+  },
+  "name": "Betta Dragon Black",
+  "price": "110000",
+  "image": "betta-dragon-2.jpg",
+  "describle": "Cá betta dragon black có đặc điểm là phần thân màu trắng, vây dày và đều nhau. Vây đuôi có màu đen khác với cơ thể...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa71c"
+  },
+  "name": "Betta Dragon Red",
+  "price": "110000",
+  "image": "betta-dragon-3.jpg",
+  "describle": "Cá betta dragon red có đặc điểm là phần thân màu trắng, vây dày và đều nhau. Vây đuôi có màu đỏ khác với cơ thể...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa71d"
+  },
+  "name": "Betta Dragon Yellow",
+  "price": "110000",
+  "image": "betta-dragon-4.jpg",
+  "describle": "Cá betta dragon yellow có đặc điểm là phần thân màu trắng, vây dày và đều nhau. Vây đuôi có màu vàng khác với cơ thể...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa71e"
+  },
+  "name": "Betta Dumbo Halfmoon Red",
+  "price": "120000",
+  "image": "betta-dumbo-1.jpg",
+  "describle": "Cá betta dumbo halfmoon red có đặc điểm là vây bơi to hơn bình thường và mang đầy đủ đặc điểm của dòng halfmoon . Vây và đuôi to màu chủ đạo là red...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa71f"
+  },
+  "name": "Betta Dumbo Nemo",
+  "price": "320000",
+  "image": "betta-dumbo-2.jpg",
+  "describle": "Cá betta dumbo nemo là dòng được lai tạo giữa dumbo và nemo, tay bơi to kết hợp cùng bộ màu Nemo nửa đẹp hết sẩy",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa720"
+  },
+  "name": "Betta Fancy Copper Red ",
+  "price": "120000",
+  "image": "betta-fc.jpg",
+  "describle": "Cá betta fancy copper red là dòng fancy lai với copper, có bộ màu chủ yếu là đỏ...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa721"
+  },
+  "name": "Betta Fancy Dragon Copper Yellow",
+  "price": "120000",
+  "image": "betta-fc-2.jpg",
+  "describle": "Cá betta fancy dragon copper yellow là dòng fancy copper lai vs dragon yellow, mang bộ vảy dày của dòng dragon và màu sắc của dòng fancy, có bộ màu chủ yếu là vàng...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa722"
+  },
+  "name": "Betta Fancy Green ",
+  "price": "130000",
+  "image": "betta-fc-4.jpg",
+  "describle": "Cá betta fancy green là dòng fancy mới, với bộ màu chủ yếu là xanh lục...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa723"
+  },
+  "name": "Betta Koi Galaxy Red ",
+  "price": "100000",
+  "image": "betta-koi-glx-1.jpg",
+  "describle": "Cá betta fancy koi galaxy red là dòng được phát triển từ fancy dựa theo phong cách của cá koi, có bộ màu đa dạng và chủ yếu là đỏ...",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa724"
+  },
+  "name": "Betta Black Blue Galaxy",
+  "price": "150000",
+  "image": "betta-koi-glx-4.jpg",
+  "describle": "Cá Betta Black Blue Galaxy lấy ý tưởng từ dòng koi của Nhật Bản, có màu sắc đan xen giữa blue và black.",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa725"
+  },
+  "name": "Betta Black Samurai",
+  "price": "250000",
+  "image": "betta-samurai-1.jpg",
+  "describle": "“Black Samurai” được Pichet Plaisanguan (Interfish) giới thiệu vào năm 2013. Ở cá betta, đấy là một con rồng đen mà vảy rồng chỉ giới hạn ở đầu và nắp mang",
+  "class": {
+    "$oid": "636614dc488332706c53ca5a"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa726"
+  },
+  "name": "Cá vàng Lưu Kim",
+  "price": "50000",
+  "image": "ca-ba-duoi-1.jpg",
+  "describle": "Cá vàng Lưu Kim có xương sống cong, vây bụng và vây lưng dài. Với miệng nhọn nhỏ, và thân hình tam giác, nếu để ý, bạn sẽ thấy chúng có một cái bướu nhỏ ngay phía sau đầu",
+  "class": {
+    "$oid": "63661645488332706c53ca63"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa727"
+  },
+  "name": "Cá vàng Ranchu",
+  "price": "150000",
+  "image": "ca-ba-duoi-2.jpg",
+  "describle": "Với người Nhật, đây được coi là “Vua của các loài cá vàng” do vẻ đẹp ấn tượng của nó. Và trong các loại cá vàng ở Việt Nam. Đương nhiên chúng cũng được ưa chuộng rồi.\nLưng của Ranchu phải rộng, và không có vây lưng. Đầu nên có dạng chữ nhật, với khoảng cách giữa 2 mắt càng dài càng tốt. Mắt nhỏ, và phải nằm đúng vị trí, không quá cao cũng không quá nằm ra sau.",
+  "class": {
+    "$oid": "63661645488332706c53ca63"
+  }
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa728"
+  },
+  "name": "Cá vàng đuôi bướm",
+  "price": "140000",
+  "image": "ca-ba-duoi-1.jpg",
+  "describle": "Đặc điểm nổi bật là chiếc nuôi có dạng hình chữ X. Và cơ thể có màu trắng, với điểm nhấn ấn tượng là đôi môi và những chiếc vây màu đỏ.",
+  "class": "63661645488332706c53ca63"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa729"
+  },
+  "name": "Cá Dĩa Xanh Chỉ Đỏ Tiger",
+  "price": "500000",
+  "image": "ca-dia-2.jpg",
+  "describle": "Cá Dĩa Xanh Chỉ Đỏ Tiger có thân hình cao và đẹp, chúng được hầu hết dân chơi cá dĩa đều thích và chọn làm đứa con cưng trong hồ cá cảnh.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa72a"
+  },
+  "name": "Cá Emperor Angelfish – Hoàng Đế",
+  "price": "1500000",
+  "image": "ca-dia-3.jpg",
+  "describle": "Cá hoàng đế, còn được biết ở một vài nơi trên thế giới với cái tên Imperator hay Imperial Angelfish, là một trong những loài cá biển đắt nhất.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa72b"
+  },
+  "name": "Cá Hề Nemo",
+  "price": "200000",
+  "image": "ca-he-2.jpg",
+  "describle": "Cá hề nemo là loài cá nhỏ, có màu sắc sặc sỡ, là loài cá cảnh biển nổi tiếng,...",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa72c"
+  },
+  "name": "1 Cặp Cá Hề Nemo",
+  "price": "350000",
+  "image": "ca-he-4.jpg",
+  "describle": "Cá hề nemo là loài cá nhỏ, có màu sắc sặc sỡ, là loài cá cảnh biển nổi tiếng,...",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa72d"
+  },
+  "name": "Cá Hồng Long",
+  "price": "1000000",
+  "image": "ca-hong-long-1.jpg",
+  "describle": "Cá rồng Hồng Long (Osteoglossidae) là một trong những dòng cá rồng được nuôi phổ biến ở Việt Nam vì độ duyên dáng và giá cả của chúng.\n Tuy không thuộc dạng đẳng cấp như Huyết Long hay Kim Long Quá Bổi nhưng chúng cũng có những đặc điểm riêng của mình. Điểm dễ nhận dạng nhất là lớp vảy của chúng, \n thường có màu hồng tươi, phần rìa vây và đuôi thường có màu đỏ hoặc cùng màu với thân. Khi di chuyển cũng nhẹ nhàng, quý phái không kém những loài cá rồng khác.",
+  "class": "6366169f488332706c53ca64"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa72e"
+  },
+  "name": "Cá Huyết Long",
+  "price": "12000000",
+  "image": "ca-hong-long-2.jpg",
+  "describle": "Cá rồng huyết có tên tiếng anh là Scleropages formosus, dòng cá này có kích thước tương đối lớn, trung mình một chú cá rồng đỏ có chiều dài khoảng 90cm.\nTrọng lượng cá dao động từ 7 tới 9kg, chúng sống chủ yếu ở điều kiện nước ngọt.",
+  "class": "6366169f488332706c53ca64"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa72f"
+  },
+  "name": "Cá Kim Long Quá Bối",
+  "price": "15000000",
+  "image": "ca-kim-long.jpg",
+  "describle": "Kim long quá bối có màu vàng óng giống thỏi vàng 24k, tượng trưng cho sự may mắn và phú quý. Để có thể đánh giá được chất lượng của loại cá này cần căn cứ vào màu sắc của vẩy, nắp mang cùng những vùng mắt xung quanh nhất là vây lưng của cá.",
+  "class": "6366169f488332706c53ca64"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa730"
+  },
+  "name": "Cá Koi Nhật Bản",
+  "price": "900000",
+  "image": "ca-koi-3.jpg",
+  "describle": "Cá Koi được cho là loại cá mang lại may mắn, thể hiện triển vọng tương lai và cơ hội về tài chính. Hồ cá Koi đòi hỏi những tiêu chuẩn nghiêm ngặt về nguồn nước để cá được sinh trưởng, duy trì tốt, cá càng nhiều thì may mắn tiền tài càng sinh sôi,...",
+  "class": "6366158e488332706c53ca5d"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa731"
+  },
+  "name": "Cá La Hán King Lai",
+  "price": "500000",
+  "image": "ca-la-han-2.jpg",
+  "describle": "Cá La Hán sở hữu thân hình nhiều vẩy lấp lánh cùng nhiều màu sắc rực rỡ. Cùng chiếc đầu gù rất to và dị dạng được coi là đủ tiêu chuẩn. Những con cá có ngoại hình như vậy thường có giá rất đắt đỏ. Lí do là dù sinh sản dễ nhưng cá trưởng thành có màu sắc đẹp và đầu gù lại rất hạn chế.",
+  "class": "6366158e488332706c53ca5d"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa732"
+  },
+  "name": "Cá La Hán Kim Cương",
+  "price": "600000",
+  "image": "ca-la-han-1.jpg",
+  "describle": "Cá La Hán sở hữu thân hình nhiều vẩy lấp lánh cùng nhiều màu sắc rực rỡ. Cùng chiếc đầu gù rất to và dị dạng được coi là đủ tiêu chuẩn. Những con cá có ngoại hình như vậy thường có giá rất đắt đỏ. Lí do là dù sinh sản dễ nhưng cá trưởng thành có màu sắc đẹp và đầu gù lại rất hạn chế.",
+  "class": "6366158e488332706c53ca5d"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa733"
+  },
+  "name": "Cá Lóc Nữ Hoàng",
+  "price": "900000",
+  "image": "ca-loc-nu-hoang-1.jpg",
+  "describle": "Cá Lóc Nữ Hoàng tên khoa học là channa aurantimaculata. Cá có nguồn gốc từ các khu vực của Ấn Độ. Chúng có khả năng thích nghi cực tốt với môi trường sống. Em cá Lóc Nữ Hoàng cũng được biết đến với biệt danh nữ hoàng của các loài cá lóc. Nhờ sở hữu màu sắc và hoa văn đẹp khỏi chê. Rất nổi bật và có tính thẩm mỹ cao. \nHiện đang được các anh em nhà giàu yêu thích nhất.",
+  "class": "6366158e488332706c53ca5d"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa734"
+  },
+  "name": "Cá Thù Lù",
+  "price": "150000",
+  "image": "ca-thu-lu-2.jpg",
+  "describle": "Cá thù lù (Danh pháp khoa học: Zanclus cornutus) là một loài cá còn sinh tồn duy nhất trong chi Zanclus và Zanclidae. Hiện nay các cá thể của loài này được nuôi làm cá cảnh, sự phổ biến của chúng tăng lên một phần nhờ bộ phim Finding Nemo.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa735"
+  },
+  "name": "Cá Bướm",
+  "price": "100000",
+  "image": "ca-thu-lu-3.jpg",
+  "describle": "Cá Bướm từ lâu đã rất nổi tiếng với những hoa văn và màu sắc rực rỡ trên cơ thể, chũng cũng là một trong những nét độc đáo nổi bật nhất quanh các rạn san hô trên khắp thế giới.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa736"
+  },
+  "name": "Cá Tỳ Bà",
+  "price": "10000",
+  "image": "ca-ti-ba-2.jpg",
+  "describle": "Cá Tỳ Bà sống chủ yếu ở những nơi nước tĩnh nhưng cũng có thể thích nghi rất tốt ở nhiều môi trường nước khác nhau. ",
+  "class": "6366158e488332706c53ca5d"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa737"
+  },
+  "name": "Cá Tỳ Bà Bướm",
+  "price": "15000",
+  "image": "ca-ti-ba-1.jpg",
+  "describle": "Đây là một trong những loại cá dọn bể được nhiều người ưa thích nhất với vẻ ngoài độc đáo và bắt mắt. Chúng có hình dáng như một con cá sam thu nhỏ, \nphần bụng bám sát lấy mặt kính hoặc lá cây để cọ sát và hút rêu bẩn.",
+  "class": "6366158e488332706c53ca5d"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa738"
+  },
+  "name": "Cá Blue Grass Guppy",
+  "price": "70000",
+  "image": "guppy-1.jpg",
+  "describle": "Sở hữu màu xanh dương đẹp mắt ở phần vây và phần đuôi cá nên giống cá Blue Grass nhận được rất nhiều sự yêu thích từ phía người chơi cá cảnh.\n Phần lưng của chúng có thêm các hoa văn chấm bi đẹp mắt nên cái tên Blue Grass cũng vì thế mà có. ",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa739"
+  },
+  "name": "Cá Guppy Rồng Xanh Indo",
+  "price": "80000",
+  "image": "guppy.jpg",
+  "describle": "Cá Guppy Rồng Xanh Indo là giống cá mới du nhập vào Việt Nam chưa lâu. Nhưng nó đã nhận được rất nhiều sự yêu thích từ phía người chơi. Bởi giống cá  này có màu xanh nổi bật. Khi nuôi chúng trong bể cá sẽ rất đẹp mắt.\n Chưa kể phần thân của nó có thêm vảy platinum nên khi nuôi sẽ càng tăng thêm vẻ đẹp cuốn hút cho bể cá. ",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa73a"
+  },
+  "name": "Cá Guppy Full Red",
+  "price": "60000",
+  "image": "guppy-2.jpg",
+  "describle": "Cá Guppy Full Red có một đặc điểm để bạn có thể dễ dàng nhận biết ra. Đó chính là phần thân của nó có màu đỏ rực. Ngay cả phần vây cá cũng màu đỏ tươi. Giống cá này có nguồn gốc xuất xứ Đài Loan và Thái Lan.\n Hiện nay cá bảy màu Full Red được nuôi khá phổ biến tại Việt Nam.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa73b"
+  },
+  "name": "Cá Guppy HB White",
+  "price": "100000",
+  "image": "guppy-3.jpg",
+  "describle": "Tuy là dòng cá bảy màu mới nhưng Guppy HB White đã nhanh chóng chiếm được thiện cảm của người chơi. Giống cá này có màu sắc đen, trắng nổi bật. Phần thân sẽ có màu đen và phần vây có màu trắng. Ngoài ra, so với các giống cá guppy khác thì Guppy HB White dễ nuôi hơn. Chúng được nhận xét là rất khỏe và khả năng sinh sản của nó cũng rất nhanh. Thời gian chăm sóc cũng ít hơn các giống cá cảnh khác.\n Chính vì vậy nhiều người thường lựa chọn Guppy HB White để nuôi. ",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa73c"
+  },
+  "name": "Cá Guppy Full Black",
+  "price": "110000",
+  "image": "guppy-4.jpg",
+  "describle": "Khác với các giống cá guppy bảy màu khác, Full Black sở hữu ngoại hình mới lạ và ưa nhìn. Bất kỳ ai khi nhìn ngắm giống cá cảnh này sẽ đều cảm thấy yêu thích. Bởi hình dáng và màu sắc của chúng rất đặc biệt. \nĐây là giống cá guppy có nguồn gốc xuất xứ từ Thái Lan.\n Hiện nay, tại Việt Nam có rất nhiều người săn lùng giống cá cảnh này để nuôi. ",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa73d"
+  },
+  "name": "Cá Guppy Full Gold",
+  "price": "130000",
+  "image": "guppy-5.jpg",
+  "describle": "Đặc điểm nhận dạng của dòng này cũng giống như tên gọi của chúng. Full Gold toàn thân màu vàng Gold. Màu vàng của kim loại vàng. Các bạn đừng nhầm lẫn với màu vàng yellow.\n Màu vàng Gold sẽ ánh sáng lên khi gặp ánh sáng chiếu vào",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa73e"
+  },
+  "name": "Cá Dumbo Red Tail Guppy",
+  "price": "120000",
+  "image": "guppy-6.jpg",
+  "describle": "Nhắc tới giống cá bảy màu được yêu thích nhất hiện nay không thể không kể tới giống cá Guppy Dumbo Red Tail. Đây là giống cá có vẻ đẹp vô cùng độc đáo và có nét cuốn hút rất riêng. Nó khiến cho những người chơi cá cảnh bị mê mẩn. \nBởi màu đỏ rực xuyên xuất từ phần vây cá cho tới phần đuôi cá. ",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa73f"
+  },
+  "name": "Cá Blue Topaz Guppy ",
+  "price": "115000",
+  "image": "guppy-8.jpg",
+  "describle": "Mang trên mình bộ đuôi màu xanh của viên ngọc blue topaz . Màu sắc khá hiếm ở các dòng cá. \nĐặc biệt dòng này còn sợ hữu thêm bộ vây lưng Big Dorsal.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa740"
+  },
+  "name": "Cá Blue Topaz Guppy",
+  "price": "100000",
+  "image": "guppy-9.jpg",
+  "describle": "Đặc điểm của dòng này là bộ vây đuôi và vây lưng rất đặc biệt. Sỡ dĩ được gọi là HB Red Rose . Red ý nói đuôi cá màu đỏ. \nRose là hoa hồng ý nối bộ đuôi của dòng này được xếp ly độ nhúng phùng như hoa hồng.",
+  "class": "636614dc488332706c53ca5a"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa741"
+  },
+  "name": "Ốc Táo Vàng",
+  "price": "10000",
+  "image": "oc-tao-3.jpg",
+  "describle": "Ốc táo vàng lần đầu được phát hiện bởi những công nhân tại cảng biển của Đức. Tên tiếng Anh ban đầu của chúng là Planorbarius corneus. Ốc táo vàng sinh sống phổ biến từ châu Âu đến Trung Á. Ban đầu loài vật này có màu đen xám, sau đó do tác động của môi trường, tiến hóa vỏ chúng chuyển thành màu vàng đẹp mắt. \nTừ đây, chúng trở thành loài sinh vật được ưa chuộng nuôi kèm trong bể thủy sinh",
+  "class": "636614f6488332706c53ca5b"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa742"
+  },
+  "name": "Crayfish Đỏ",
+  "price": "10000",
+  "image": "tom-canh-3.jpg",
+  "describle": "Tôm crayfish có nguồn gốc ngoài tự nhiên, chúng sinh trưởng ngoài tự nhiên thì thông số môi trường sống khác rất xa với môi trường nuôi nhốt trong bể kính hoặc thùng xốp, nồng độ chất độc hại loãng và môi trường sống của tôm crayfish ngoài tự nhiên rất rộng rãi, không gò bó chật hẹp như hồ kính trong phòng. Bởi vậy, để nuôi và giữ được tôm crayfish sống trong môi trường \nnuôi nhốt thì bắt buộc chúng ta phải có một số phương pháp để thuần dưỡng từ từ",
+  "class": "636614f6488332706c53ca5b"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa743"
+  },
+  "name": "Crayfish Xanh",
+  "price": "10000",
+  "image": "tom-canh-2.jpg",
+  "describle": "Tôm crayfish có nguồn gốc ngoài tự nhiên, chúng sinh trưởng ngoài tự nhiên thì thông số môi trường sống khác rất xa với môi trường nuôi nhốt trong bể kính hoặc thùng xốp, nồng độ chất độc hại loãng và môi trường sống của tôm crayfish ngoài tự nhiên rất rộng rãi, không gò bó chật hẹp như hồ kính trong phòng. Bởi vậy, để nuôi và giữ được tôm crayfish sống trong môi trường \nnuôi nhốt thì bắt buộc chúng ta phải có một số phương pháp để thuần dưỡng từ từ",
+  "class": "636614f6488332706c53ca5b"
+},{
+  "_id": {
+    "$oid": "636f9a2c5cb9046c349aa744"
+  },
+  "name": "Crayfish Cam",
+  "price": "10000",
+  "image": "tom-canh-1.jpg",
+  "describle": "Tôm crayfish có nguồn gốc ngoài tự nhiên, chúng sinh trưởng ngoài tự nhiên thì thông số môi trường sống khác rất xa với môi trường nuôi nhốt trong bể kính hoặc thùng xốp, nồng độ chất độc hại loãng và môi trường sống của tôm crayfish ngoài tự nhiên rất rộng rãi, không gò bó chật hẹp như hồ kính trong phòng. Bởi vậy, để nuôi và giữ được tôm crayfish sống trong môi trường \nnuôi nhốt thì bắt buộc chúng ta phải có một số phương pháp để thuần dưỡng từ từ",
+  "class": "636614f6488332706c53ca5b"
+}]

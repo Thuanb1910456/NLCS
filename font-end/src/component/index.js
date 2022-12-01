@@ -1,0 +1,13 @@
+export {default as Header} from "./Header/Header"
+export {default as Footer} from "./Footer/Footer"
+export {default as Home} from "./Home/Home"
+export {default as Login} from "./Login/Login"
+export {default as Register} from "./Register/Register"
+export {default as Blog} from "./Blog/Blog"
+export {default as Contacts} from "./Contacts/Contacts"
+export {default as PetGuide} from "./Petguide/Petguide"
+export {default as PetMart} from "./Petmart/PetMart"
+export {default as Cart} from "./Cart/Cart" 
+export {default as Bill} from "./Bill/Bill"
+export {default as AdminHome} from './Admin/Home'
+export {default as AdminBill} from "./Admin/Bills"

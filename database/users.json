@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "638427e0b668b5404ecfa821"
+  },
+  "name": "Thuận Nguyễn",
+  "email": "admin@gmail.com",
+  "account": "admin123",
+  "password": "$2a$10$Roxeyc2CtmLJjbYK7yHYpuev09pibnghrEV7BZp8hJ9FKu/BCCA5m",
+  "phone": 786877893,
+  "avt": "C:\\fakepath\\avt.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669605344841"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669605344841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63842d32b668b5404ecfaec5"
+  },
+  "name": "Thuận Nguyễn",
+  "email": "thuannguyennguyen2006@gmail.com",
+  "account": "B1910456",
+  "password": "$2a$10$xTb.RkvdAHsWWiOYST8bp.epwInAnEOAxNF/MgATN8oTzRjYvhrzO",
+  "phone": 786877893,
+  "avt": "C:\\fakepath\\avtu.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669606706046"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669606706046"
+    }
+  },
+  "__v": 0
+}]
