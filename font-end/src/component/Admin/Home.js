@@ -15,7 +15,7 @@ function Home(props) {
     const [addProd, setAddProd] = useState({});
     useEffect(() => {
         axios.get("/api/PetMart").then(function (response) {
-            setProducts(response.data.data.products);
+            setProducts(response.data.data.products.reverse());
             dispatch({ type: "Get_All_Products", payload: products })
         });
         // eslint-disable-next-line react-hooks/exhaustive-deps

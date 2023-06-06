@@ -1,5 +1,8 @@
 - Tạo CSDL mongoDB có tên là Pet_app
 - Import các file ở thư mục database vào CSDL
 - Import các gói cần thiết ở thư mục back-end và font-end bằng lệnh: npm i
+- Tài khoản admin
+	+ admin123
+	+ 123456789
 - github: https://github.com/Thuanb1910456/NLCN.git
 chúc thành công! 

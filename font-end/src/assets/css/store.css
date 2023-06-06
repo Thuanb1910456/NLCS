@@ -77,7 +77,8 @@ button{
 .brand{
 	display: flex;
 	justify-content: center;
-	background-color: aliceblue;
+	background-color: rgb(205, 224, 240);
+	width: 240px ;
 }
 .show{
 	border: none;

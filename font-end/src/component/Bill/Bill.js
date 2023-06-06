@@ -49,7 +49,8 @@ function Bill() {
                                             value.updatedAt = new Date(value.updatedAt).toLocaleDateString();
                                             let day = new Date().setDate(new Date(value.updatedAt).getDate() + 3);
                                             let dateRe = new Date(day);
-                                            dateRe = new Date(dateRe).toLocaleDateString();
+                                            dateRe = new Date(dateRe).toLocaleDateString("vi-vn");
+                                            let dayGive = new Date(value.updatedAt).toLocaleDateString("vi-vn");
                                             var status = ""
                                             if (value.status !== false && value.content === false) {
                                                 status = "Đang giao hàng"
@@ -70,7 +71,7 @@ function Bill() {
                                                             <td>{e.quantity}</td>
                                                             <td>{new Intl.NumberFormat('vi').format(e.id_product.price)}</td>
                                                             <td>{new Intl.NumberFormat('vi').format(e.id_product.price * e.quantity)}</td>
-                                                            <td>{value.updatedAt}</td>
+                                                            <td>{dayGive}</td>
                                                             <td>{dateRe}</td>
                                                             {value.content === false ?
                                                                 <td>

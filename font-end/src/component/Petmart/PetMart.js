@@ -94,9 +94,14 @@ function PetMart(props) {
     }
     return null;
   }
-  const onChange = (e) =>{
+  const onChange = (e) => {
     // console.log(product);
-    const temp = product.filter(element=>element.name.toLowerCase().includes(e.target.value.toLowerCase()));
+    const temp = product.filter(element => element.name.toLowerCase().includes(e.target.value.toLowerCase()));
+    // console.log(temp);
+    setProducts(temp);
+  }
+  const onSubmit = (name) => {
+    const temp = product.filter(element => element.class.name === name);
     // console.log(temp);
     setProducts(temp);
   }
@@ -114,7 +119,7 @@ function PetMart(props) {
               />
               <div className="input-group-append mx-2">
                 <button className="btn btn-outline-success"
-                  type="button" onClick={() => {}}>
+                  type="button" onClick={() => { }}>
                   <i className="fas fa-search"></i>Tìm kiếm
                 </button>
               </div>
@@ -127,7 +132,7 @@ function PetMart(props) {
             <DropdownButton id="dropdown-basic-button" title="Danh sách các loại sản phẩm">
               {type.map((i, index) => (
                 <div className="brand" key={index}>
-                  <Button variant="outline-warning" className="my-2 text-danger">{i.name}</Button>
+                  <Button variant="outline-warning" className="my-2 text-danger" onClick={()=>onSubmit(i.name)} >{i.name}</Button>
                 </div>
               ))}
             </DropdownButton>
